@@ -6,8 +6,8 @@ Ez a bot egy Közép haladó szintű bot (én véleményem szerint). A botnak va
 # Bot futtatása az első alkalommal
 
 ```
-git clone
-cd 
+git clone https://github.com/BMmarci1234/Bot-terminek
+cd Bot-terminek
 npm init -y
 npm install @discordjs/rest axios discord-api-types discord.js dotenv fs node-fetch path sqlite3
 ```
